@@ -1,0 +1,181 @@
+{
+  "categories": [
+    {
+      "slug": "movies",
+      "name": "Movies",
+      "emoji": "🎬",
+      "hasPage": true,
+      "pageSlug": "imposter-word-list-movies",
+      "seoTitle": "Imposter Word List: Movies | 30 Movie Words for Game Night",
+      "seoDescription": "A free sample word list from the Movies category in Imposter Game. Pull up these words for your next round, or get the app for unlimited movie packs.",
+      "intro": "Movies is one of the most popular categories in Imposter Game, and it's easy to see why. Everyone has an opinion on a plot twist, a cameo, or a sequel that never should have happened. That makes it perfect for this game. One player gets a real movie word. Everyone else who's the imposter has to fake their way through a clue without knowing what it actually is. The best part is how fast people give themselves away. Someone describes a 'jump scare' like it's a documentary technique and the whole table knows. Below is a sample of words straight from this category. Use them for a quick round with friends, or grab the app for a full pack that never repeats.",
+      "words": [
+        "Blockbuster", "Cameo", "Director", "Ensemble", "Franchise", "Genre", "Heist",
+        "Indie", "Jump Scare", "Montage", "Noir", "Outtake", "Plot Twist", "Reboot",
+        "Sequel", "Trailer", "Underdog", "Villain", "Whodunit", "Cliffhanger",
+        "Documentary", "Epilogue", "Flashback", "Narration", "Prequel",
+        "Red Herring", "Slow Burn", "Unreliable Narrator", "Voice Over", "Western"
+      ]
+    },
+    {
+      "slug": "food",
+      "name": "Food & Drink",
+      "emoji": "🍣",
+      "hasPage": true,
+      "pageSlug": "imposter-word-list-food",
+      "seoTitle": "Imposter Word List: Food | 30 Food Words for Game Night",
+      "seoDescription": "A free sample word list from the Food category in Imposter Game. Use these words for your next round, or get the app for unlimited food packs.",
+      "intro": "Food rounds get heated fast. People have strong feelings about sushi versus ramen, and that's exactly what makes someone fake a clue badly. In Imposter Game, one player doesn't get the word at all. They have to guess what it might be from everyone else's clues and bluff their way through it without getting caught. Food is a great category to start with because the words are specific enough to clue well, but common enough that nobody can hide behind 'I just don't know much about it.' Below is a sample straight from the in-app Food category. Try it with your group tonight, or download the app for the full word bank plus categories like Animals, Movies, and Sports.",
+      "words": [
+        "Sushi", "Croissant", "Tacos", "Ramen", "Hummus", "Guacamole", "Fondue",
+        "Tiramisu", "Paella", "Kimchi", "Baklava", "Bruschetta", "Ceviche",
+        "Falafel", "Gyoza", "Halloumi", "Injera", "Jambalaya", "Kebab", "Lasagna",
+        "Moussaka", "Naan", "Pierogi", "Quesadilla", "Risotto", "Shawarma",
+        "Tagine", "Udon"
+      ]
+    },
+    {
+      "slug": "animals",
+      "name": "Animals",
+      "emoji": "🦓",
+      "hasPage": true,
+      "pageSlug": "imposter-word-list-animals",
+      "seoTitle": "Imposter Word List: Animals | 28 Animal Words for Game Night",
+      "seoDescription": "A free sample word list from the Animals category in Imposter Game. Pull these up for a quick round, or get the app for unlimited animal word packs.",
+      "intro": "The Animals category is sneaky good for this game because the words range from easy to genuinely tricky. Everyone knows a flamingo. Way fewer people can clue a quokka or a binturong without panicking. That gap is where the imposter gets caught, or somehow talks their way out of it. In Imposter Game, every player except the imposter sees the real word and gives a one line clue. The imposter has nothing and has to wing it. Watching someone improvise a clue for a pangolin they've never heard of is half the fun. Here's a sample list straight from the app's Animals category. Run a round with friends, or download the app for the full set plus harder difficulty tiers.",
+      "words": [
+        "Narwhal", "Axolotl", "Pangolin", "Capybara", "Quokka", "Okapi", "Tapir",
+        "Meerkat", "Wombat", "Platypus", "Echidna", "Lemur", "Fossa", "Aardvark",
+        "Binturong", "Coati", "Dingo", "Emu", "Flamingo", "Gecko", "Hyena",
+        "Ibis", "Jaguar", "Kinkajou", "Llama", "Manatee", "Numbat", "Ocelot"
+      ]
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "emoji": "🏆",
+      "hasPage": false,
+      "words": [
+        "Archery", "Badminton", "Cricket", "Dressage", "Fencing", "Gymnastics",
+        "Handball", "Ice Hockey", "Kayaking", "Lacrosse", "Netball", "Orienteering",
+        "Polo", "Rowing", "Skeleton", "Triathlon", "Volleyball", "Water Polo",
+        "CrossFit", "Parkour", "Bobsled", "Curling", "Discus", "Equestrian",
+        "Figure Skating", "Golf", "Hurdles", "Judo", "Kickboxing", "Luge",
+        "Marathon", "Nordic Skiing", "Pentathlon", "Racquetball", "Shot Put",
+        "Table Tennis", "Weightlifting", "Wrestling", "Biathlon", "Decathlon",
+        "Diving", "Freestyle Skiing", "Halfpipe", "Jujitsu", "Mountain Biking",
+        "Rock Climbing", "Sailing", "Taekwondo", "Windsurfing", "Yachting",
+        "Bouldering", "Canoeing", "Darts"
+      ]
+    },
+    {
+      "slug": "jobs",
+      "name": "Jobs & Careers",
+      "emoji": "💼",
+      "hasPage": false,
+      "words": [
+        "Actuary", "Barista", "Cartographer", "Dermatologist", "Electrician",
+        "Florist", "Geologist", "Historian", "Illustrator", "Journalist",
+        "Librarian", "Meteorologist", "Notary", "Orthodontist", "Pathologist",
+        "Radiologist", "Sommelier", "Taxidermist", "Underwriter", "Veterinarian",
+        "Watchmaker", "Zoologist", "Archaeologist", "Botanist", "Curator",
+        "Diplomat", "Epidemiologist", "Forensic Scientist", "Game Designer",
+        "Horticulturist", "Judge", "Locksmith", "Midwife", "Neurologist",
+        "Oceanographer", "Physicist", "Restorer", "Stenographer", "Toxicologist",
+        "Urban Planner", "Volcanologist", "Welder"
+      ]
+    },
+    {
+      "slug": "travel",
+      "name": "Travel & Places",
+      "emoji": "✈️",
+      "hasPage": false,
+      "words": [
+        "Airport", "Boutique Hotel", "Customs", "Departure Lounge", "Hostel",
+        "Immigration", "Jet Lag", "Layover", "Monorail", "Night Train",
+        "Overland", "Roundtrip", "Safari", "Upgrade", "Wanderlust",
+        "Backpacking", "Cruise Ship", "Duty-Free", "Eco-Lodge", "Ferry",
+        "Guesthouse", "Homestay", "Itinerary", "Knapsack", "Motorhome",
+        "Overbooking", "Pilgrimage", "Road Trip", "Sightseeing", "Timeshare",
+        "Wayfarer", "Youth Hostel", "Zipline", "Bungalow", "Caravan", "Dinghy",
+        "Embarkation", "Souvenir", "Currency", "Passport", "Resort", "Visa"
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "emoji": "🔬",
+      "hasPage": false,
+      "words": [
+        "Atom", "Molecule", "Electron", "Nucleus", "Chromosome", "DNA",
+        "Fossil", "Prism", "Microscope", "Nebula", "Supernova", "Comet",
+        "Asteroid", "Orbit", "Galaxy", "Crystal", "Vaccine", "Neuron",
+        "Bacteria", "Virus", "Osmosis", "Photosynthesis", "Catalyst",
+        "Electrode", "Circuit", "Sediment", "Thermometer", "Barometer",
+        "Centrifuge", "Spore", "Parasite", "Evolution", "Mutation",
+        "Species", "Ecosystem", "Wavelength", "Gravity", "Velocity",
+        "Hypothesis", "Laboratory", "Element", "Compound", "Membrane",
+        "Hormone", "Synapse", "Erosion", "Fission", "Fusion",
+        "Radiation", "Magma", "Tectonic", "Venom"
+      ]
+    },
+    {
+      "slug": "history",
+      "name": "History",
+      "emoji": "🏛️",
+      "hasPage": false,
+      "words": [
+        "Pharaoh", "Gladiator", "Samurai", "Viking", "Knight", "Colosseum",
+        "Plague", "Guillotine", "Chariot", "Trebuchet", "Monastery", "Scroll",
+        "Sarcophagus", "Mummy", "Aqueduct", "Amphitheater", "Citadel",
+        "Longship", "Trireme", "Crusade", "Exile", "Tyrant", "Conquistador",
+        "Armistice", "Dynasty", "Feudalism", "Colonialism", "Republic",
+        "Empire", "Declaration", "Siege", "Famine", "Revolution", "Monarchy",
+        "Democracy", "Rebellion", "Treaty", "Constitution", "Mercenary",
+        "Parchment", "Manuscript", "Assassination", "Inquisition",
+        "Reformation", "Renaissance", "Census", "Tribute", "Rune",
+        "Catapult", "Ballista"
+      ]
+    },
+    {
+      "slug": "kids",
+      "name": "Kids Mode",
+      "emoji": "🎈",
+      "hasPage": false,
+      "words": [
+        "Rainbow", "Butterfly", "Puppy", "Sunshine", "Pizza", "Balloon", "Robot",
+        "Dragon", "Mermaid", "Dinosaur", "Teddy Bear", "Ice Cream", "Candy",
+        "Bicycle", "Superhero", "Princess", "Castle", "Magic Wand", "Treasure",
+        "Rocket Ship", "Dolphin", "Giraffe", "Elephant", "Penguin", "Monkey",
+        "Strawberry", "Watermelon", "Cupcake", "Cookie", "Chocolate", "Lollipop",
+        "Swing", "Slide", "Kite", "Sandcastle", "Snowman", "Snowflake",
+        "Star", "Moon", "Cloud", "Flower", "Tree", "Apple", "Banana", "Crayon"
+      ]
+    },
+    {
+      "slug": "general",
+      "name": "General",
+      "emoji": "🎯",
+      "hasPage": false,
+      "words": [
+        "Volcano", "Piano", "Dentist", "Monsoon", "Lighthouse", "Compass",
+        "Telescope", "Submarine", "Cathedral", "Glacier", "Tornado",
+        "Blueprint", "Parachute", "Embassy", "Aquarium", "Escalator",
+        "Periscope", "Avalanche", "Eclipse", "Pendulum", "Labyrinth",
+        "Mirage", "Oasis", "Phantom", "Quicksand", "Silhouette", "Trapeze",
+        "Undertow", "Vortex", "Whirlpool", "Zeppelin", "Almanac", "Boomerang",
+        "Catapult", "Dagger", "Gargoyle", "Harpoon", "Igloo", "Javelin",
+        "Kaleidoscope", "Lagoon", "Mannequin", "Oracle", "Piranha",
+        "Quarantine", "Raven", "Scarecrow", "Talon", "Urn", "Vampire"
+      ]
+    }
+  ],
+  "specialCards": [
+    {
+      "slug": "ai-theme",
+      "name": "Custom AI Theme",
+      "emoji": "✨",
+      "blurb": "Type any theme you want. The AI builds a fresh word pack on the spot."
+    }
+  ]
+}
