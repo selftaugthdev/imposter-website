@@ -16,14 +16,29 @@ const bebas = Bebas_Neue({
   subsets: ["latin"],
 });
 
+const description =
+  "Someone in your group is lying. Imposter Game is the pass and play party game where everyone gets a word except one liar. Free on the App Store.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: "Imposter Game - Find The Spy",
     template: "%s | Imposter Game",
   },
-  description:
-    "Someone in your group is lying. Imposter Game is the pass and play party game where everyone gets a word except one liar. Free on the App Store.",
+  description,
+  openGraph: {
+    title: "Imposter Game - Find The Spy",
+    description,
+    url: SITE_URL,
+    siteName: "Imposter Game",
+    images: ["/images/brand/icon-512.png"],
+  },
+  twitter: {
+    card: "summary",
+    title: "Imposter Game - Find The Spy",
+    description,
+    images: ["/images/brand/icon-512.png"],
+  },
 };
 
 export default function RootLayout({
